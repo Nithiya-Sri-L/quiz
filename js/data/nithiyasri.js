@@ -3,8 +3,8 @@ function getRandomNumber(max){
 	randomNumber = parseInt(randomNumber)
 	return randomNumber
 }
-var nithi={
-	"problem071":function problem071(){
+var nithiyasri={
+	"problem071":function(){
 	var inputData = [{
 		'costprice': 2000,
 		'loss': 10
@@ -48,7 +48,7 @@ var nithi={
 	return question;
 	
 },
-"problem072":function problem072(){
+"problem072":function (){
 	var inputData = [{
 		'distance': 10,
 		'time': 60
@@ -96,7 +96,7 @@ var nithi={
 	return question;
 	
 },
-"problem073":function problem073(){
+"problem073":function (){
 	var inputData = [{
 		'sellingprice': 2500,
 		'costprice': 2000
@@ -146,7 +146,7 @@ var nithi={
 	return question;
 	
 },
-"problem074":function problem074(){
+"problem074":function(){
 	var inputData = [{
 		'profitp': 25,
 		'costprice': 1300
@@ -194,7 +194,7 @@ var nithi={
 	return question;
 	
 },
-"problem075":function problem075(){
+"problem075":function(){
 	var inputData = [{
 		'profitp': 25,
 		'costprice': 1300
@@ -242,7 +242,7 @@ var nithi={
 	return question;
 	
 },
-"problem076":function problem076(){
+"problem076":function(){
 	var inputData = [{
 		'costprice': 1540,
 		'profit': 25
@@ -286,7 +286,7 @@ var nithi={
 	return question;
 	
 },
-"problem077":function problem077(){
+"problem077":function(){
 	var inputData = [{
 		'distance':600,
 		'time': 8
@@ -335,7 +335,7 @@ var nithi={
 	return question;
 	
 },
-"problem078":function problem078(){
+"problem078":function(){
 	var inputData = [{
 		'cp':695,
 		'sp': 900
@@ -386,7 +386,7 @@ var nithi={
 	return question;
 	
 },
-"problem079":function problem079(){
+"problem079":function(){
 	var inputData = [{
 		'speed1':140,
 		'time1': 2,
@@ -444,7 +444,7 @@ var nithi={
 	return question;
 	
 },
-"problem0710":function problem0710(){
+"problem0710":function(){
 	var inputData = [{
 		'speed':15,
 		'distance': 400
@@ -494,7 +494,7 @@ var nithi={
 	return question;
 	
 },
-"problem0711":function problem0711(){
+"problem0711":function(){
 	var inputData = [{
 		'speed':20,
 		'time': 2
@@ -544,7 +544,7 @@ var nithi={
 	return question;
 	
 },
-"problem0712":function problem0712(){
+"problem0712":function(){
 	var inputData = [{
 		'distance1':240,
 		'time1': 24,
@@ -602,7 +602,7 @@ var nithi={
 	return question;
 	
 },
-"problem0713":function problem0713(){
+"problem0713":function(){
 	var inputData = [{
 		'distance':68,
 		'speed1': 13,
@@ -660,7 +660,7 @@ var nithi={
 	return question;
 	
 },
-"problem0714":function problem0714(){
+"problem0714":function(){
 	var inputData = [{
 		'speed1':15,
 		'speed2': 3,
@@ -718,7 +718,7 @@ var nithi={
 	return question;
 	
 },
-"problem0715":function problem0715(){
+"problem0715":function(){
 	var inputData = [{
 		'subjects1':6,
 		'subjects2': 5,
@@ -784,7 +784,7 @@ var nithi={
 	return question;
 	
 },
-"problem0716":function problem0716(){
+"problem0716":function(){
 	var inputData = [{
 		'speed1':11,
 		'speed2': 5,
@@ -831,7 +831,7 @@ var nithi={
 	return question;
 	
 },
-"problem0717":function problem0717(){
+"problem0717":function(){
 	var inputData = [{
 		'A': 3,
 		'B': 2,
@@ -890,7 +890,7 @@ var nithi={
 	return question;
 	
 },
-"problem0718":function problem0718(){
+"problem0718":function(){
 	var inputData = [{
 		'overs':10 ,
 		'runrate': 3.2,
@@ -951,7 +951,7 @@ var nithi={
 	return question;
 	
 },
-"problem0719":function problem0719(){
+"problem0719":function(){
 	var inputData = [{
 		'value': 79507		
 		},
@@ -992,7 +992,7 @@ var nithi={
 	return question;
 	
 },
-"problem0720":function problem0720(){
+"problem0720":function(){
 	var inputData = [{
 		'base': 8500,
 		'height': 50
@@ -1039,5 +1039,5 @@ var nithi={
 	
 	return question;
 	
-},ss
+}
 }
